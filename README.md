@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Huawei Cloud as a Technical Account Manager and <br>completing my major in Computer Science on December 2025.<br><br>Here you will find code snippets related to cloud scenarios and college projects.
+I am currently working at Huawei Cloud as a Technical Account Manager and <br>completing my major in Computer Science on December 2025.<br><br>Here you will find code snippets related to cloud scenarios and college projects.
 
 
 ## 🌐 Socials:
