@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working at Huawei Cloud as a Technical Account Manager.<br><br>Here you will find code snippets related to cloud scenarios.
+I am currently working at CrowdStrike as a Technical Account Manager.<br><br>Here you will find code snippets related to cloud scenarios mainly.
 
 
 ## 🌐 Socials:
